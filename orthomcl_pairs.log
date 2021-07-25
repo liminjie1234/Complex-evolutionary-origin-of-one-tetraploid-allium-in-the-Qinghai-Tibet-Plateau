@@ -1,0 +1,243 @@
+
+
+============================================================================================
+Thu Sep 13 18:53:20 2018 orthomclPairs orthomcl.config orthomcl_pairs.log cleanup=no
+=============================================================================================
+
+Thu Sep 13 18:53:20 2018 Constructing common temp tables
+Thu Sep 13 18:53:20 2018   Find min evalue exp  (OrthoMCL-DB V2 took ??? for this step)
+Thu Sep 13 18:56:53 2018   done
+Thu Sep 13 18:56:53 2018   updating SimilarSequences, setting 0 evalue_exp to underflow value (-181 - 1)  (Benchmark dataset took 25 min for this step)
+Thu Sep 13 18:59:35 2018   step 'updateMinimumEvalueExponent' done (2 mins)
+
+Thu Sep 13 18:59:35 2018   create BestQueryTaxonScore  (Benchmark dataset took 1.5 hours for this step)
+Thu Sep 13 19:08:44 2018   step 'bestQueryTaxonScore' done (9 mins)
+
+Thu Sep 13 19:08:44 2018   create qtscore_ix index on BestQueryTaxonScore  (Benchmark dataset took 15 min for this step)
+Thu Sep 13 19:09:37 2018   step 'qtscore_ix' done (1 mins)
+
+Thu Sep 13 19:09:37 2018 Constructing ortholog tables
+Thu Sep 13 19:09:37 2018   create BestHit  (Benchmark dataset took 1.5 hours for this step)
+
+
+============================================================================================
+Fri Sep 14 09:37:31 2018 orthomclPairs orthomcl.config orthomcl_pairs.log cleanup=no
+=============================================================================================
+
+Fri Sep 14 09:37:31 2018 Constructing common temp tables
+Fri Sep 14 09:37:31 2018   Find min evalue exp  (OrthoMCL-DB V2 took ??? for this step)
+Fri Sep 14 09:39:59 2018   done
+Fri Sep 14 09:39:59 2018   updating SimilarSequences, setting 0 evalue_exp to underflow value (-181 - 1)  (Benchmark dataset took 25 min for this step)
+Fri Sep 14 09:41:19 2018   step 'updateMinimumEvalueExponent' done (1 mins)
+
+Fri Sep 14 09:41:19 2018   create BestQueryTaxonScore  (Benchmark dataset took 1.5 hours for this step)
+
+
+============================================================================================
+Fri Sep 14 12:47:21 2018 orthomclPairs orthomcl.config orthomcl_pairs.log cleanup=no
+=============================================================================================
+
+Fri Sep 14 12:47:21 2018 Constructing common temp tables
+Fri Sep 14 12:47:21 2018   Find min evalue exp  (OrthoMCL-DB V2 took ??? for this step)
+Fri Sep 14 12:49:58 2018   done
+Fri Sep 14 12:49:58 2018   updating SimilarSequences, setting 0 evalue_exp to underflow value (-181 - 1)  (Benchmark dataset took 25 min for this step)
+Fri Sep 14 12:51:19 2018   step 'updateMinimumEvalueExponent' done (1 mins)
+
+Fri Sep 14 12:51:19 2018   create BestQueryTaxonScore  (Benchmark dataset took 1.5 hours for this step)
+
+
+============================================================================================
+Fri Sep 14 12:56:42 2018 orthomclPairs orthomcl.config orthomcl_pairs.log cleanup=no
+=============================================================================================
+
+Fri Sep 14 12:56:42 2018 Constructing common temp tables
+Fri Sep 14 12:56:42 2018   Find min evalue exp  (OrthoMCL-DB V2 took ??? for this step)
+Fri Sep 14 12:57:30 2018   done
+Fri Sep 14 12:57:30 2018   updating SimilarSequences, setting 0 evalue_exp to underflow value (-181 - 1)  (Benchmark dataset took 25 min for this step)
+Fri Sep 14 12:58:26 2018   step 'updateMinimumEvalueExponent' done (1 mins)
+
+Fri Sep 14 12:58:26 2018   create BestQueryTaxonScore  (Benchmark dataset took 1.5 hours for this step)
+Fri Sep 14 13:05:10 2018   step 'bestQueryTaxonScore' done (6 mins)
+
+Fri Sep 14 13:05:10 2018   create qtscore_ix index on BestQueryTaxonScore  (Benchmark dataset took 15 min for this step)
+Fri Sep 14 13:06:10 2018   step 'qtscore_ix' done (1 mins)
+
+Fri Sep 14 13:06:10 2018 Constructing ortholog tables
+Fri Sep 14 13:06:10 2018   create BestHit  (Benchmark dataset took 1.5 hours for this step)
+
+
+============================================================================================
+Fri Sep 14 13:17:31 2018 orthomclPairs orthomcl.config orthomcl_pairs.log cleanup=no
+=============================================================================================
+
+Fri Sep 14 13:17:31 2018 Constructing common temp tables
+Fri Sep 14 13:17:31 2018   Find min evalue exp  (OrthoMCL-DB V2 took ??? for this step)
+Fri Sep 14 13:18:20 2018   done
+Fri Sep 14 13:18:20 2018   updating SimilarSequences, setting 0 evalue_exp to underflow value (-181 - 1)  (Benchmark dataset took 25 min for this step)
+Fri Sep 14 13:19:17 2018   step 'updateMinimumEvalueExponent' done (1 mins)
+
+Fri Sep 14 13:19:17 2018   create BestQueryTaxonScore  (Benchmark dataset took 1.5 hours for this step)
+
+
+============================================================================================
+Fri Sep 14 14:41:52 2018 orthomclPairs orthomcl.config orthomcl_pairs.log cleanup=no
+=============================================================================================
+
+Fri Sep 14 14:41:52 2018 Constructing common temp tables
+Fri Sep 14 14:41:52 2018   Find min evalue exp  (OrthoMCL-DB V2 took ??? for this step)
+Fri Sep 14 14:47:15 2018   done
+Fri Sep 14 14:47:15 2018   updating SimilarSequences, setting 0 evalue_exp to underflow value (-181 - 1)  (Benchmark dataset took 25 min for this step)
+Fri Sep 14 14:51:18 2018   step 'updateMinimumEvalueExponent' done (4 mins)
+
+Fri Sep 14 14:51:18 2018   create BestQueryTaxonScore  (Benchmark dataset took 1.5 hours for this step)
+Fri Sep 14 15:05:03 2018   step 'bestQueryTaxonScore' done (13 mins)
+
+Fri Sep 14 15:05:03 2018   create qtscore_ix index on BestQueryTaxonScore  (Benchmark dataset took 15 min for this step)
+Fri Sep 14 15:05:57 2018   step 'qtscore_ix' done (1 mins)
+
+Fri Sep 14 15:05:57 2018 Constructing ortholog tables
+Fri Sep 14 15:05:57 2018   create BestHit  (Benchmark dataset took 1.5 hours for this step)
+
+
+============================================================================================
+Fri Sep 14 15:38:57 2018 orthomclPairs orthomcl.config orthomcl_pairs.log cleanup=no
+=============================================================================================
+
+Fri Sep 14 15:38:57 2018 Constructing common temp tables
+Fri Sep 14 15:38:57 2018   Find min evalue exp  (OrthoMCL-DB V2 took ??? for this step)
+Fri Sep 14 15:47:12 2018   done
+Fri Sep 14 15:47:12 2018   updating SimilarSequences, setting 0 evalue_exp to underflow value (-181 - 1)  (Benchmark dataset took 25 min for this step)
+Fri Sep 14 15:51:26 2018   step 'updateMinimumEvalueExponent' done (4 mins)
+
+Fri Sep 14 15:51:26 2018   create BestQueryTaxonScore  (Benchmark dataset took 1.5 hours for this step)
+
+
+============================================================================================
+Fri Sep 14 15:56:58 2018 orthomclPairs orthomcl.config orthomcl_pairs.log cleanup=no
+=============================================================================================
+
+Fri Sep 14 15:56:58 2018 Constructing common temp tables
+Fri Sep 14 15:56:58 2018   Find min evalue exp  (OrthoMCL-DB V2 took ??? for this step)
+Fri Sep 14 16:03:09 2018   done
+Fri Sep 14 16:03:09 2018   updating SimilarSequences, setting 0 evalue_exp to underflow value (-181 - 1)  (Benchmark dataset took 25 min for this step)
+Fri Sep 14 16:06:01 2018   step 'updateMinimumEvalueExponent' done (2 mins)
+
+Fri Sep 14 16:06:01 2018   create BestQueryTaxonScore  (Benchmark dataset took 1.5 hours for this step)
+Fri Sep 14 16:18:48 2018   step 'bestQueryTaxonScore' done (12 mins)
+
+Fri Sep 14 16:18:48 2018   create qtscore_ix index on BestQueryTaxonScore  (Benchmark dataset took 15 min for this step)
+Fri Sep 14 16:19:45 2018   step 'qtscore_ix' done (1 mins)
+
+Fri Sep 14 16:19:45 2018 Constructing ortholog tables
+Fri Sep 14 16:19:45 2018   create BestHit  (Benchmark dataset took 1.5 hours for this step)
+Fri Sep 14 16:24:50 2018   step 'bestHit' done (5 mins)
+
+Fri Sep 14 16:24:50 2018   create best_hit_ix index on BestHit  (Benchmark dataset took 15 min for this step)
+Fri Sep 14 16:26:59 2018   step 'best_hit_ix' done (2 mins)
+
+Fri Sep 14 16:26:59 2018   create OrthologTemp table  (Benchmark dataset took 5 min for this step)
+Fri Sep 14 16:27:46 2018   step 'ortholog' done (1 mins)
+
+Fri Sep 14 16:27:46 2018   create OrthologTaxon table  (Benchmark dataset took 1 min for this step)
+Fri Sep 14 16:27:59 2018   step 'orthologTaxon' done (1 mins)
+
+Fri Sep 14 16:27:59 2018   create OrthologAvgScore table  (Benchmark dataset took 1 min for this step)
+Fri Sep 14 16:28:00 2018   step 'orthologAvg' done (1 mins)
+
+Fri Sep 14 16:28:00 2018   create OrthologAvgScore index  (Benchmark dataset took 1 min for this step)
+Fri Sep 14 16:28:00 2018   step 'orthologAvgIndex' done (1 mins)
+
+Fri Sep 14 16:28:00 2018   populate Ortholog table, including normalized_score  (Benchmark dataset took 2 min for this step)
+Fri Sep 14 16:29:23 2018   step 'orthologsNormalization' done (1 mins)
+
+Fri Sep 14 16:29:23 2018 Constructing inParalog tables
+Fri Sep 14 16:29:23 2018   create BestInterTaxonScore  (Benchmark dataset took 5 min for this step)
+Fri Sep 14 16:30:15 2018   step 'bestInterTaxonScore' done (1 mins)
+
+Fri Sep 14 16:30:15 2018   create bis_uids_ix index on BestQueryTaxonScore  (Benchmark dataset took 1 min for this step)
+Fri Sep 14 16:30:24 2018   step 'bis_uids_ix' done (1 mins)
+
+Fri Sep 14 16:30:24 2018   create UniqSimSeqsQueryId  (Benchmark dataset took 25 min for this step)
+Fri Sep 14 16:30:46 2018   step 'uniqueSimSeqsQueryId' done (1 mins)
+
+Fri Sep 14 16:30:46 2018   create ust_qids_ix index on UniqSimSeqsQueryId  (Benchmark dataset took 1 min for this step)
+Fri Sep 14 16:30:56 2018   step 'ust_qids_ix' done (1 mins)
+
+Fri Sep 14 16:30:56 2018   create BetterHit table  (Benchmark dataset took 3 hours for this step)
+Fri Sep 14 16:42:30 2018   step 'betterHit' done (11 mins)
+
+Fri Sep 14 16:42:30 2018   create better_hit_ix index on BetterHit  (Benchmark dataset took 25 min for this step)
+Fri Sep 14 16:43:06 2018   step 'better_hit_ix' done (1 mins)
+
+Fri Sep 14 16:43:06 2018   create InParalogTemp table  (Benchmark dataset took 15 min for this step)
+Fri Sep 14 16:43:28 2018   step 'inParalog' done (1 mins)
+
+Fri Sep 14 16:43:28 2018   create InParalogTaxonAvg table  (Benchmark dataset took 1 min for this step)
+Fri Sep 14 16:43:29 2018   step 'inParalogTaxonAvg' done (1 mins)
+
+Fri Sep 14 16:43:29 2018   create OrthologUniqueId table  (Benchmark dataset took 5 min for this step)
+Fri Sep 14 16:44:06 2018   step 'orthologUniqueId' done (1 mins)
+
+Fri Sep 14 16:44:06 2018   create unique ortho_uniq_id_ix index  (Benchmark dataset took 1 min for this step)
+Fri Sep 14 16:44:13 2018   step 'orthologUniqueIdIndex' done (1 mins)
+
+Fri Sep 14 16:44:13 2018   create InplgOrthTaxonAvg table  (Benchmark dataset took 10 min for this step)
+Fri Sep 14 16:44:16 2018   step 'inplgOrthTaxonAvg' done (1 mins)
+
+Fri Sep 14 16:44:16 2018   create InParalogAvgScore table  (Benchmark dataset took 1 min for this step)
+Fri Sep 14 16:44:16 2018   step 'inParalogAvg' done (1 mins)
+
+Fri Sep 14 16:44:16 2018   create InParalogAvgScore index  (Benchmark dataset took 1 min for this step)
+Fri Sep 14 16:44:16 2018   step 'inParalogAvgIndex' done (1 mins)
+
+Fri Sep 14 16:44:16 2018   populate InParalog table, including normalized_score  (Benchmark dataset took 3 min for this step)
+Fri Sep 14 16:44:29 2018   step 'inParalogsNormalization' done (1 mins)
+
+Fri Sep 14 16:44:29 2018 Constructing coOrtholog tables
+Fri Sep 14 16:44:29 2018   create InParalog2Way  (Benchmark dataset took 1.5 hours for this step)
+Fri Sep 14 16:45:05 2018   step 'inParalog2Way' done (1 mins)
+
+Fri Sep 14 16:45:05 2018   index in2a_ix  (Benchmark dataset took 45 min for this step)
+Fri Sep 14 16:45:30 2018   step 'in2a_ix' done (1 mins)
+
+Fri Sep 14 16:45:30 2018   index in2b_ix  (Benchmark dataset took 45 min for this step)
+Fri Sep 14 16:45:52 2018   step 'in2b_ix' done (1 mins)
+
+Fri Sep 14 16:45:52 2018   create Ortholog2Way  (Benchmark dataset took 1 hours for this step)
+Fri Sep 14 16:47:34 2018   step 'ortholog2Way' done (1 mins)
+
+Fri Sep 14 16:47:34 2018   index ortholog2way_ix  (Benchmark dataset took 5 min for this step)
+Fri Sep 14 16:48:45 2018   step 'ortholog2WayIndex' done (1 mins)
+
+Fri Sep 14 16:48:45 2018   create InplgOrthoInplg  (Benchmark dataset took 20 min for this step)
+Fri Sep 14 16:58:08 2018   step 'inplgOrthoInplg' done (9 mins)
+
+Fri Sep 14 16:58:08 2018   create InParalogOrtholog  (Benchmark dataset took 15 min for this step)
+Fri Sep 14 16:59:41 2018   step 'inParalogOrtholog' done (1 mins)
+
+Fri Sep 14 16:59:41 2018   create CoOrthologCandidate  (Benchmark dataset took 1 hour for this step)
+Fri Sep 14 17:17:01 2018   step 'coOrthologCandidate' done (17 mins)
+
+Fri Sep 14 17:17:01 2018   create CoOrthNotOrtholog table  (Benchmark dataset took 10 min for this step)
+Fri Sep 14 17:18:18 2018   step 'coOrthologNotOrtholog' done (1 mins)
+
+Fri Sep 14 17:18:18 2018   index cno_ix  (Benchmark dataset took 1 min for this step)
+Fri Sep 14 17:18:39 2018   step 'coOrthologNotOrthologIndex' done (1 mins)
+
+Fri Sep 14 17:18:39 2018   create CoOrthologTemp table  (Benchmark dataset took 2 hours for this step)
+Fri Sep 14 17:28:38 2018   step 'coOrtholog' done (9 mins)
+
+Fri Sep 14 17:28:38 2018   create CoOrthologTaxon table  (Benchmark dataset took 1 min for this step)
+Fri Sep 14 17:28:45 2018   step 'coOrthologTaxon' done (1 mins)
+
+Fri Sep 14 17:28:45 2018   create CoOrthologAvgScore table  (Benchmark dataset took 1 min for this step)
+Fri Sep 14 17:28:46 2018   step 'coOrthologAvg' done (1 mins)
+
+Fri Sep 14 17:28:46 2018   create CoOrthologAvgScore index  (Benchmark dataset took 1 min for this step)
+Fri Sep 14 17:28:46 2018   step 'coOrthologAvgIndex' done (1 mins)
+
+Fri Sep 14 17:28:46 2018   populate CoOrtholog table, including normalized_score  (Benchmark dataset took 2 min for this step)
+Fri Sep 14 17:29:10 2018   step 'coOrthologsNormalization' done (1 mins)
+
+
+Done
